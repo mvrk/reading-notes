@@ -6,9 +6,9 @@
 
 This is[my github page](github.com/mvrk/reading-notes）
 
--Day 1
--Day 2
--Day 1
+- Day 1
+- Day 2
+- Day 1
 -Day 1
 -Day 1
 -Day 1
