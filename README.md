@@ -4,4 +4,4 @@
 
 > code fellows 201 course
 
-[My github]（github.com/mvrk/reading-notes）
+This is [My github page](github.com/mvrk/reading-notes）
