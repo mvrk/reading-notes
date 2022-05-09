@@ -4,7 +4,7 @@
 
 > code fellows 201 course
 
-This is[my github page](github.com/mvrk/reading-notes）
+This is[my github page](https://github.com/mvrk/reading-notes）
 
 - Day 1
 - Day 2
