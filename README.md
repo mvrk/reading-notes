@@ -8,18 +8,18 @@
 
 This is [my github page](https://github.com/mvrk)
 
-- [Day 1]
-- [Day 2]
-- [Day 3]
-- [Day 4]
-- [Day 5]
-- [Day 6]
-- [Day 7]
-- [Day 8]
-- [Day 9]
-- D[ay 10]
-- [Day 11]
-- [Day 12]
-- [Day 13]
-- [Day 14]
-- [Day 15]
+- [Day 1](src/../class-02.md)
+- [Day 2](src/../class-02.md)
+- [Day 3](src/../class-02.md)
+- [Day 4](src/../class-02.md)
+- [Day 5](src/../class-02.md)
+- [Day 6](src/../class-02.md)
+- [Day 7](src/../class-02.md)
+- [Day 8](src/../class-02.md)
+- [Day 9](src/../class-02.md)
+- [Day 10](src/../class-02.md)
+- [Day 11](src/../class-02.md)
+- [Day 12](src/../class-02.md)
+- [Day 13](src/../class-02.md)
+- [Day 14](src/../class-02.md)
+- [Day 15](src/../class-02.md)

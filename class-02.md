@@ -11,8 +11,7 @@ Paragraphs p
 To create a paragraph, surround the words that make up the
 paragraph with an opening <p> tag and closing </p> tag.  
 
-bold and italic
-  .
+bold and italic.
 <b>
 By enclosing words in the tags
 <b> and </b> we can make
@@ -36,7 +35,7 @@ foreign words, thoughts, or other
 terms that would usually be
 italicized.
   
-  <sup>
+<sup>
 The <sup> element is used
 to contain characters that
 should be superscript such
