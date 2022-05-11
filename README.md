@@ -1,5 +1,4 @@
 # Code 201 Reading Notes
-
 ## code fellows software develepment 201 course
 
 - Day 1: [Read: 01 - Introductory HTML and JavaScript](src/../class-01.md)  
