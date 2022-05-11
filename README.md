@@ -1,16 +1,10 @@
-(https://myoctocat.com/assets/images/base-octocat.svg)
+# Code 201 Reading Notes
 
-## reading-notes
+## code fellows software develepment 201 course
 
-#### Code 201 Reading Notes
-
-> code fellows 201 course
-
-This is [my github page](https://github.com/mvrk)
-
-- Day 1 [Read: 01 - Introductory HTML and JavaScript](src/../class-01.md)  
-- Day 2 [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](src/../class-02.md)
-- Day 3 [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](src/../class-03.md)  
+- Day 1: [Read: 01 - Introductory HTML and JavaScript](src/../class-01.md)  
+- Day 2: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](src/../class-02.md)
+- Day 3: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](src/../class-03.md)  
 - [Day 4](src/../class-04.md)
 - [Day 5](src/../class-05.md)
 - [Day 6](src/../class-06.md)
@@ -23,3 +17,6 @@ This is [my github page](https://github.com/mvrk)
 - [Day 13](src/../class-13.md)
 - [Day 14](src/../class-14.md)
 - [Day 15](src/../class-15.md)
+  
+![alt text](src/../git.svg)
+**This is [my github page](https://github.com/mvrk)**
