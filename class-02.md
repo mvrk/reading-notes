@@ -17,15 +17,14 @@ bold and italic
 By enclosing words in the tags
 <b> and </b> we can make
 characters appear bold.
-The <b> element also represents
-a section of text that would be
+The <b> element also represents a section of text that would be
 presented in a visually different
 way (for example key words in a
 paragraph) although the use of
 the <b> element does not imply
 any additional m
   
-  By enclosing words in the tags
+By enclosing words in the tags
 <i> and </i> we can make
 characters appear italic.
 The <i> element also represents
@@ -70,7 +69,7 @@ A CSS rule contains two parts: a selector and a declaration.
   javascript runs in HTML.
   JS ABC
   if statements
-  /*   */ comments
+  /**/ comments
   variable declaration
   data types
   rules for naming variables
@@ -95,7 +94,7 @@ JavaScript also has several built-in objects such as
 String, Number, Math, and Date. Their properties and
 methods offer functionality that help you write scripts.
 Arrays and objects can be used to create complex data
-sets (and both can contain the other). 
+sets (and both can contain the other).
   
   A script is made up of a series of statements. Each
 statement is like a step in a recipe.
@@ -109,4 +108,4 @@ than one piece of related information.
 JavaScript distinguishes between numbers (0-9),
 strings (text), and Boolean values (true or false).
 Expressions evaluate into a single value.
-Expressions rely on operators to calculate a value. 
+Expressions rely on operators to calculate a value.

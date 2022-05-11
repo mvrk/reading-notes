@@ -9,7 +9,7 @@
 This is [my github page](https://github.com/mvrk/reading-notes)
 
 - Day 1
-- Day 2
+- Day 2 [linky](src/class-02.md#section)
 - Day 3
 - Day 4
 - Day 5
@@ -23,4 +23,3 @@ This is [my github page](https://github.com/mvrk/reading-notes)
 - Day 13
 - Day 14
 - Day 15
-
