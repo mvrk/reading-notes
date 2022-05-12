@@ -122,6 +122,7 @@ pixels (to demonstrate its relevance without scrolling).
 Functions, Methods and Objects
 <br>
 <br>
+
 >Functions consist of a
 series of statements
 that have been grouped
