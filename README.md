@@ -4,7 +4,7 @@
 - Day 1: [Read: 01 - Introductory HTML and JavaScript](src/../class-01.md)  
 - Day 2: [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](src/../class-02.md)
 - Day 3: [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](src/../class-03.md)  
-- [Day 4](src/../class-04.md)
+- Day 4: [Read: 04 - HTML Links, JS Functions, and Intro to CSS Layout](src/../class-04.md)
 - [Day 5](src/../class-05.md)
 - [Day 6](src/../class-06.md)
 - [Day 7](src/../class-07.md)
