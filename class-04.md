@@ -150,7 +150,10 @@ While there are many different styles, pair programming commonly involves two ro
 <br>Why pair program?
 ```html
 Listening: hearing and interpreting the vocabulary
+
 Speaking: using the correct words to communicate an idea
+
 Reading: understanding what written language intends to convey
+
 Writing: producing from scratch a meaningful, well structured solution
 ```
