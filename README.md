@@ -7,7 +7,7 @@
 - Day 4: [Read: 04 - HTML Links, JS Functions, and Intro to CSS Layout](src/../class-04.md)
 - Day 5: [Read: 05 - HTML Images; CSS Color & Text](src/../class-05.md)
 - Day 6: [Readings: Problem Domain, Objects, and the DOM](src/../class-06.md)
-- [Day 7](src/../class-07.md)
+- Day 7: [Readings: Object-Oriented Programming, HTML Tables](src/../class-07.md)
 - [Day 8](src/../class-08.md)
 - [Day 9](src/../class-09.md)
 - [Day 10](src/../class-10.md)
