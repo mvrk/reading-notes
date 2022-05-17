@@ -83,16 +83,16 @@ Use the this variable within methods so you can access the object's properties a
 ### Summary
 
 >Functions allow you to group a set of relatedstatements together that represent a single task.
-<br>
+
 >Functions can take parameters (informatiorJ required to do their job) and may return a value.
-<br>
+
 >An object is a series of variables and functions that represent something from the world around you.
-<br>
+
 >In an object, variables are known as properties of the object; functions are known as methods of the object.
-<br>
+
 >Web browsers implement objects that represent both the browser window and the document loaded into thebrowser window.
-<br>
+
 >JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and
 methods offer functionality that help you write scripts.
-<br>
+
 >Arrays and objects can be used to create complex data sets (and both can contain the other).
