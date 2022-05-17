@@ -63,25 +63,28 @@ Use the this variable within methods so you can access the object's properties a
 - This is commonly used inside functions and objects where the function is declared alters what this means
 - Key:Value
   <br>
+  
 - build in objects: 
 
 >browser object model
+
 >document object model
+
 >global javascript objects
 
 - JavaScript six data types
-- 
-  >String
+  
+>String
 
-  >Number
+>Number
 
-  >Boolean
+>Boolean
 
-  >Undefined
+>Undefined
 
-  >Null
+>Null
 
-  >Object
+>Object
 
 - Creating an instance of the date object
 ``` var today = new Date();```
