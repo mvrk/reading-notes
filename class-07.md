@@ -70,11 +70,17 @@ Use the this variable within methods so you can access the object's properties a
 >global javascript objects
 
 - JavaScript six data types
+- 
   >String
+
   >Number
+
   >Boolean
+
   >Undefined
+
   >Null
+
   >Object
 
 - Creating an instance of the date object
