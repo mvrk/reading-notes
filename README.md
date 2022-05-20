@@ -10,7 +10,7 @@
 - Day 7: [Readings: Object-Oriented Programming, HTML Tables](src/../class-07.md)
 - Day 8: [Read: 08 - More CSS Layout](src/../class-08.md)
 - Day 9: [Readings: Forms and JS Events](src/../class-09.md)
-- [Day 10](src/../class-10.md)
+- Day 10:[Readings: Debugging](src/../class-10.md)
 - [Day 11](src/../class-11.md)
 - [Day 12](src/../class-12.md)
 - [Day 13](src/../class-13.md)
