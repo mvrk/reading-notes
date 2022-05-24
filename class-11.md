@@ -36,6 +36,8 @@
 
 ## Video and Audio
 
+- video/audio format example
+
 ```
 <video controls>
   <source src="rabbit320.mp4" type="video/mp4">
@@ -44,7 +46,7 @@
 </video>
 ```
 
-
+- The HTMLMediaElement API
 
 ## Practical Information
 
