@@ -29,6 +29,7 @@ The Canvas API provides a means for drawing graphics via JavaScript and the HTML
 - Canvas libraries
   <br>
 - Drawing shapes with canvas: rectangles
+  
    ```fillRect(x, y, width, height)```
 Draws a filled rectangle.
 
@@ -40,14 +41,17 @@ Clears the specified rectangular area, making it fully transparent.
 <br>
 
 - Applying styles and colors
+- 
    ```fillStyle = color```
 Sets the style used when filling shapes.
+
    ```strokeStyle = color```
 Sets the style for shapes' outlines.
 <br>
-
 - Drawing text
+  
    ```fillText(text, x, y [, maxWidth])```
 Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
+
    ```strokeText(text, x, y [, maxWidth])```
 Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
