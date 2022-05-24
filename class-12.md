@@ -41,13 +41,14 @@ Clears the specified rectangular area, making it fully transparent.
 <br>
 
 - Applying styles and colors
-- 
+  
    ```fillStyle = color```
 Sets the style used when filling shapes.
 
    ```strokeStyle = color```
 Sets the style for shapes' outlines.
 <br>
+
 - Drawing text
   
    ```fillText(text, x, y [, maxWidth])```
