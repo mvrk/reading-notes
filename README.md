@@ -13,7 +13,7 @@
 - Day 10:[Readings: Debugging](src/../class-10.md)
 - Day 11:[Readings: Audio, Video, Images](src/../class-11.md)
 - Day 12:[Readings: Chart.js, Canvas](src/../class-12.md)
-- [Day 13](src/../class-13.md)
+- Day 13:[Read: 13 - Local Storage](src/../class-13.md)
 - [Day 14](src/../class-14.md)
 - [Day 15](src/../class-15.md)
   
