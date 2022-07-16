@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## CODE FELLOWS SOFTWARE DEVELOPMENT READING NOTES
 
-You can use the [editor on GitHub](https://github.com/mvrk/https-mvrk.github.io-reading-notes-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my reading notes! This repo concludes all my reading discoveries from 200 level to 400 level.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Code 201 - Foundations of Software Development](src/../201.md)
+### [Code 301 - Intermediate Software Development](src/../301.md)
+### [Code 401 - Advanced Software Development](src/../401.md)
 
-### Markdown
+Click the link above to go to each level of the course.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mvrk/https-mvrk.github.io-reading-notes-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![alt text](src/../git.svg)
+**This is [my github page](https://github.com/mvrk)**
